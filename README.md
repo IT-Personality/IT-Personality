@@ -1,7 +1,7 @@
-## I am a Youtuber and also a front-end and back-end developer
-- 💪 I like to write code
-- 🥅 I am constantly learning new things
-- 🤹🏽 I like to shoot videos for Youtube 
+## Я ютубер, а также front-end и back-end разработчик
+- 💪 Мне нравится писать код
+- 🥅 Постоянно учусь новому
+- 🤹🏽 Люблю снимать видео для Youtube
 
 ### Языки и инструменты:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
