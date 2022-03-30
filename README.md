@@ -3,8 +3,10 @@
 - 🥅 I am constantly learning new things
 - 🤹🏽 I like to shoot videos for Youtube 
 
-### Connect with me:
-[<img align="left" alt="VladKalachev | YouTube" width="24px" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />][youtube]
-<img align="left" alt="https://t.me/ait_bro01z" width="24px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
-<img align="left" alt="https://vk.com/it_personality" width="24px" src="https://free-png.ru/wp-content/uploads/2022/02/free-png.ru-307-700x700.png" />
-<br />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
