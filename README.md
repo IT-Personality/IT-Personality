@@ -15,8 +15,8 @@
 
 
 ### Мои видео на YouTube:
+- [#1 - Python Socket. Пишем консольный чат.](https://youtu.be/xhhvWORq-2Q)
+- [#2 - Python Socket. Пишем собственный сервер на Python за 5 минут!](https://youtu.be/btmi2JmAwxY)
 - [Оптимизация и настройка Windows 10 LTSC! Как повысить производительность пк?! Гайд](https://youtu.be/KiTq33v3KNI)
-- [Уроки SQL для начинающих! #3 - Псевдонимы, итоговые функции](https://youtu.be/mLw2PugXZVg)
-- [I2p. Настройка самой анонимной и безопасной сети на данный момент!](https://youtu.be/iVUcCHpFs08)
-- [Скрытые возможности телефонной звонилки операционной системы Android!](https://youtu.be/a96J69jTNus)
+- [Как установить macOS Catalina на виртуальную машину?! VMware Workstation](https://youtu.be/GF0X8C4-pWk)
 - [Уроки SQL для начинающих! #2 - Индексы, добавление и обновление записей, функция Count.](https://youtu.be/sEKuhwPaomc)
