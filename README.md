@@ -11,6 +11,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="" width="23px" src="https://bobpusateri.blob.core.windows.net/bcn/2020/04/Azure_SQL_DB.png" />
+<img align="left" alt="" width="23px" src="https://miro.medium.com/max/1400/1*Y1hq9sHXG26Fyhys81z8rg.png" />
 <br />
 
 
