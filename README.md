@@ -12,7 +12,7 @@
 <img align="left" alt="" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" />
 <img align="left" alt="" width="23px" src="https://bobpusateri.blob.core.windows.net/bcn/2020/04/Azure_SQL_DB.png" />
 <img align="left" alt="" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png" />
-<img align="left" alt="" width="23px" src="https://cdn0.iconfinder.com/data/icons/filesco/256/14.png" />
+<img align="left" alt="" width="35px" src="https://cdn0.iconfinder.com/data/icons/filesco/256/14.png" />
 <br />
 
 
