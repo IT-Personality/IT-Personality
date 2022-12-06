@@ -17,8 +17,8 @@
 
 
 ### Последние видео на YouTube:
-- [Как сделать почту со своим доменом бесплатно? Как сделать корпоративную почту?](https://youtu.be/dH0jpLSGZnM)
+- [Как выучить Python с Нуля?! Мой путь в Python. План обучения](https://youtu.be/wAZWE7o6HnA)
+- [Как сделать плавный скрол на сайте? Обзор на библиотеку FullPage JS](https://youtu.be/GMhZh5vMPsw)
+- [Обзор на Nmap в Linux! Как пользоваться и использовать?](https://youtu.be/S5p_w4XmGKg)
+- [Как сделать слайдер на JS? Слайдер SWIPER. HTML + CSS + JavaScript](https://youtu.be/WEGP9-uLypg)
 - [Мета-теги для сайта - как использовать? Атрибуты тега meta.](https://youtu.be/tVJzx95Y9x8)
-- [Способы РЕАЛЬНО Заработать в интернете! Заработок в интернете](https://youtu.be/VWqiNuGOAQk)
-- [Ускоряем сайт до Предела! Как ускорить загрузку своего сайта? Как ускорить сайт?](https://youtu.be/A8ADsewGERg)
-- [Музыка, которую используют IT-Ютуберы! Музыка без авторских прав для YouTube!](https://youtu.be/DjOP9iZvjNc)
