@@ -1,5 +1,5 @@
 [![Header](https://github.com/klondikeitblogger/prelimg/blob/e2c188e3013cc949a71f5f716f5a70a0147efb43/GFX%20BANNER%203.png)](https://www.youtube.com/c/MaxShowPro)
-## YouTuber, Full Stack разработчик
+## YouTuber, Web-разработчик
 - 💪 Мне нравится писать код
 - 🥅 Постоянно учусь новому
 - 🤹🏽 Люблю снимать видео для Youtube
