@@ -25,3 +25,4 @@
 - [Мета-теги для сайта - как использовать? Атрибуты тега meta.](https://youtu.be/tVJzx95Y9x8)
 
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT-Personality&theme=dark&background=000000)](https://git.io/streak-stats)
