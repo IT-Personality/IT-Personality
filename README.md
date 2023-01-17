@@ -32,7 +32,6 @@
 - [ПЛЮСЫ и МИНУСЫ Python! Язык г@вно?](https://www.youtube.com/watch?v=7p32DhiU66g)
 - [Алгоритм Рекурсия В Python простыми словами. #shorts](https://www.youtube.com/watch?v=UsMtV_j4H38)
 <!-- YOUTUBE:END -->
-[more videos...][youtube]
 
 <br />
 
