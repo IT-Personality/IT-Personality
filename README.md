@@ -1,14 +1,14 @@
 [![Header](https://github.com/klondikeitblogger/prelimg/blob/e2c188e3013cc949a71f5f716f5a70a0147efb43/GFX%20BANNER%203.png)](https://www.youtube.com/c/MaxShowPro)
 ## YouTuber, Web-Developer
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=IT-Personality&style=flat-square&color=0fffcf" alt=""/></div>
+<div align="center">⚡️<img src="https://komarev.com/ghpvc/?username=IT-Personality&style=flat-square&color=0fffcf" alt=""/></div>
 
 - 💪 I like to write code<br />
 - 🥅 I am constantly learning something new<br />
 - 🤹🏽 I like to shoot videos on Youtube and other sites
  
 <br />
-<h2>Languages and tools:</h2>
+<h2>🔥Languages and tools:</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
