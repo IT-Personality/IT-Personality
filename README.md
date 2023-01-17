@@ -38,4 +38,12 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IT-Personality&count_private=true&theme=tokyonight&showicons=true)]()  <br /><br />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&langs_count=5&theme=tokyonight)]()
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=ProtoNetX)](https://github.com/IT-Personality/ProtoNetX)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
+Generates a snake game from a github user contributions graph
+
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
