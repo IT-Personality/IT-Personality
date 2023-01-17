@@ -38,4 +38,4 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IT-Personality&count_private=true&theme=tokyonight&showicons=true)]()  <br /><br />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&langs_count=5&theme=tokyonight)]()
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=ProtoNetX)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=ProtoNetX)](https://github.com/IT-Personality/ProtoNetX)
