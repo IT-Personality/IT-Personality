@@ -15,7 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="40"/>&nbsp;
-  <img src="https://flyclipart.com/thumbs/bat-file-format-symbol-comments-formatos-de-imagen-psd-1090268.png" width="60" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/29/29529.png" width="60" height="40"/>&nbsp;
 </div>
 <br />
 
