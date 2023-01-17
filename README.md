@@ -20,7 +20,7 @@
 <br />
 
 
-### Последние видео на YouTube:
+### Latest videos on YouTube::
 - [Как выучить Python с Нуля?! Мой путь в Python. План обучения](https://youtu.be/wAZWE7o6HnA)
 - [Как сделать плавный скрол на сайте? Обзор на библиотеку FullPage JS](https://youtu.be/GMhZh5vMPsw)
 - [Обзор на Nmap в Linux! Как пользоваться и использовать?](https://youtu.be/S5p_w4XmGKg)
@@ -28,5 +28,5 @@
 - [Мета-теги для сайта - как использовать? Атрибуты тега meta.](https://youtu.be/tVJzx95Y9x8)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IT-Personality&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
