@@ -25,11 +25,7 @@
 
 
 ## Latest videos on YouTube:
-- [Как выучить Python с Нуля?! Мой путь в Python. План обучения](https://youtu.be/wAZWE7o6HnA)
-- [Как сделать плавный скрол на сайте? Обзор на библиотеку FullPage JS](https://youtu.be/GMhZh5vMPsw)
-- [Обзор на Nmap в Linux! Как пользоваться и использовать?](https://youtu.be/S5p_w4XmGKg)
-- [Как сделать слайдер на JS? Слайдер SWIPER. HTML + CSS + JavaScript](https://youtu.be/WEGP9-uLypg)
-- [Мета-теги для сайта - как использовать? Атрибуты тега meta.](https://youtu.be/tVJzx95Y9x8)
+[more videos...][youtube]
 
 <br />
 
