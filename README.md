@@ -30,7 +30,7 @@
 - [Как сделать слайдер на JS? Слайдер SWIPER. HTML + CSS + JavaScript](https://youtu.be/WEGP9-uLypg)
 - [Мета-теги для сайта - как использовать? Атрибуты тега meta.](https://youtu.be/tVJzx95Y9x8)
 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+<br />
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()<br />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&langs_count=5&theme=tokyonight)]()
 
