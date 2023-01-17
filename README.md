@@ -26,6 +26,11 @@
 
 ## Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [Интересные факты о JavaScript. #shorts #ityoutubers #программирование #js](https://www.youtube.com/watch?v=Pz0iSSf3T2A)
+- [С Новым Годом! 🎄 Видео поздравление. #ityoutubers](https://www.youtube.com/watch?v=Wu3n9NtxqpY)
+- [Интересные факты о PHP. #shorts #php #программирование](https://www.youtube.com/watch?v=yQArgZAPMpM)
+- [ПЛЮСЫ и МИНУСЫ Python! Язык г@вно?](https://www.youtube.com/watch?v=7p32DhiU66g)
+- [Алгоритм Рекурсия В Python простыми словами. #shorts](https://www.youtube.com/watch?v=UsMtV_j4H38)
 <!-- YOUTUBE:END -->
 [more videos...][youtube]
 
