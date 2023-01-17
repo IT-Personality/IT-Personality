@@ -1,7 +1,7 @@
 [![Header](https://github.com/klondikeitblogger/prelimg/blob/e2c188e3013cc949a71f5f716f5a70a0147efb43/GFX%20BANNER%203.png)](https://www.youtube.com/c/MaxShowPro)
 ## YouTuber, Web-Developer
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=IT-Personality&style=flat-square&color=red" alt=""/></div>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=IT-Personality&style=flat-square&color=#0fffcf" alt=""/></div>
 
 - 💪 I like to write code<br />
 - 🥅 I am constantly learning something new<br />
