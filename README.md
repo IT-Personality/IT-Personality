@@ -25,8 +25,8 @@
 
 
 ## Latest videos on YouTube:
-<!--- YOUTUBE:START -->-
-<!--- YOUTUBE:END -->-
+<!--- YOUTUBE -->
+<!--- YOUTUBE -->
 [more videos...][youtube]
 
 <br />
