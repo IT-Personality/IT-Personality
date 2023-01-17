@@ -14,6 +14,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP"  alt="PHP" width="60" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="60" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="60" height="40"/>&nbsp;
+  <img src="https://w7.pngwing.com/pngs/382/392/png-transparent-batch-file-computer-icons-formal-icon-text-black-white-logo.png" width="60" height="40"/>&nbsp;
 </div>
 <br />
 
