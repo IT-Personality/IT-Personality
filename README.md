@@ -42,6 +42,7 @@
 ## 💥My top projects: <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io)](https://github.com/IT-Personality/it-personality.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=currency-converter.github.io)](https://github.com/IT-Personality/currency-converter.github.io)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=qr-code-generator.github.io)](https://github.com/IT-Personality/qr-code-generator.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=online-stopwatch.github.io)](https://github.com/IT-Personality/online-stopwatch.github.io)
 
