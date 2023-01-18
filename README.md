@@ -35,10 +35,11 @@
 
 <br />
 
-<h2>💥My top projects:</h2>
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=IT-Personality&count_private=true&theme=tokyonight&showicons=true)]() <br /><br />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&langs_count=5&theme=tokyonight)]()
 
+<h2>💥My top projects:</h2><br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=currency-converter.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=qr-code-generator.github.io)](https://github.com/anuraghazra/github-readme-stats)
