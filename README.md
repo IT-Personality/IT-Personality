@@ -44,3 +44,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=qr-code-generator.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=online-stopwatch.github.io)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=ProtoNetX)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=Telegram_spammer)](https://github.com/anuraghazra/github-readme-stats)
