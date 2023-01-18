@@ -40,9 +40,10 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&langs_count=5&theme=tokyonight)]()
 
 ## 💥My top projects: <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io)](https://github.com/IT-Personality/it-personality.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=currency-converter.github.io)](https://github.com/IT-Personality/currency-converter.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=qr-code-generator.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=online-stopwatch.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=ProtoNetX)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=Your_browser)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=qr-code-generator.github.io)](https://github.com/IT-Personality/qr-code-generator.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=online-stopwatch.github.io)](https://github.com/IT-Personality/online-stopwatch.github.io)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=ProtoNetX)](https://github.com/IT-Personality/ProtoNetX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=Your_browser)](https://github.com/IT-Personality/Your_browser)
