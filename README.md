@@ -39,7 +39,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=IT-Personality&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=141414"/>
 </a><br />
 <a href="https://github.com/IT-Personality">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=141414" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=141414" />
 </a>
 
 
