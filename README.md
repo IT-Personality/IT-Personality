@@ -46,5 +46,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=qr-code-generator.github.io)](https://github.com/IT-Personality/qr-code-generator.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=online-stopwatch.github.io)](https://github.com/IT-Personality/online-stopwatch.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=ProtoNetX)](https://github.com/IT-Personality/ProtoNetX)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=IT-Personality)](https://github.com/IT-Personality/ProtoNetX)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=Your_browser)](https://github.com/IT-Personality/Your_browser)
