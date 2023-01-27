@@ -27,11 +27,11 @@
 
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [Это прокачает тебя в JavaScript! 10 концепций!](https://www.youtube.com/watch?v=NPbJz-ISnm8)
 - [Интересные факты о C++ #shorts #ityoutubers #программирование #c++ #c](https://www.youtube.com/watch?v=i9nGG2lwsUM)
 - [Интересные факты о JavaScript. #shorts #ityoutubers #программирование #js](https://www.youtube.com/watch?v=Pz0iSSf3T2A)
 - [С Новым Годом! 🎄 Видео поздравление. #ityoutubers](https://www.youtube.com/watch?v=Wu3n9NtxqpY)
 - [Интересные факты о PHP. #shorts #php #программирование](https://www.youtube.com/watch?v=yQArgZAPMpM)
-- [ПЛЮСЫ и МИНУСЫ Python! Язык г@вно?](https://www.youtube.com/watch?v=7p32DhiU66g)
 <!-- YOUTUBE:END -->
 
 <br />
