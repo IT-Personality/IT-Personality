@@ -27,11 +27,11 @@
 
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [ТОП 12 полезных приложений для Android 2023! ТЫ ЗАХОЧЕШЬ ЭТО УСТАНОВИТЬ!](https://www.youtube.com/watch?v=QA0MKzfr-1E)
 - [Как скопировать любой сайт в Figma? Как перенести сайт?  #shorts](https://www.youtube.com/watch?v=Il24mRWEDMo)
 - [Это прокачает тебя в JavaScript! 10 концепций!](https://www.youtube.com/watch?v=NPbJz-ISnm8)
 - [Интересные факты о C++ #shorts #ityoutubers #программирование #c++ #c](https://www.youtube.com/watch?v=i9nGG2lwsUM)
 - [Интересные факты о JavaScript. #shorts #ityoutubers #программирование #js](https://www.youtube.com/watch?v=Pz0iSSf3T2A)
-- [С Новым Годом! 🎄 Видео поздравление. #ityoutubers](https://www.youtube.com/watch?v=Wu3n9NtxqpY)
 <!-- YOUTUBE:END -->
 
 <br />
