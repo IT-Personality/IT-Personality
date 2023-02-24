@@ -27,11 +27,11 @@
 
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [8 бизнес идей заработка на ChatGPT в 2023 году! Искусственный интеллект](https://www.youtube.com/watch?v=znnBPPqU3wE)
 - [ТОП 12 полезных приложений для Android 2023! ТЫ ЗАХОЧЕШЬ ЭТО УСТАНОВИТЬ!](https://www.youtube.com/watch?v=QA0MKzfr-1E)
 - [Как скопировать любой сайт в Figma? Как перенести сайт?  #shorts](https://www.youtube.com/watch?v=Il24mRWEDMo)
 - [Это прокачает тебя в JavaScript! 10 концепций!](https://www.youtube.com/watch?v=NPbJz-ISnm8)
 - [Интересные факты о C++ #shorts #ityoutubers #программирование #c++ #c](https://www.youtube.com/watch?v=i9nGG2lwsUM)
-- [Интересные факты о JavaScript. #shorts #ityoutubers #программирование #js](https://www.youtube.com/watch?v=Pz0iSSf3T2A)
 <!-- YOUTUBE:END -->
 
 <br />
