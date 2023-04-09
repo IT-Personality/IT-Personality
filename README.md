@@ -27,11 +27,11 @@
 
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [Как один человек изменил Интернет навсегда: История создания World Wide Web!](https://www.youtube.com/watch?v=Xc2fQvEWGVU)
 - [ИСТОРИЯ СОЗДАНИЯ Python за НЕСКОЛЬКО МИНУТ! Гвидо ван Россум](https://www.youtube.com/watch?v=e6iYD1XyZsc)
 - [Философия денег: как изменить свое отношение к финансам? Что такое деньги? Краткое содержание.](https://www.youtube.com/watch?v=mu88oE1AsWE)
 - [8 бизнес идей заработка на ChatGPT в 2023 году! Искусственный интеллект](https://www.youtube.com/watch?v=znnBPPqU3wE)
 - [ТОП 12 полезных приложений для Android 2023! ТЫ ЗАХОЧЕШЬ ЭТО УСТАНОВИТЬ!](https://www.youtube.com/watch?v=QA0MKzfr-1E)
-- [Как скопировать любой сайт в Figma? Как перенести сайт?  #shorts](https://www.youtube.com/watch?v=Il24mRWEDMo)
 <!-- YOUTUBE:END -->
 
 <br />
