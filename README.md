@@ -27,11 +27,11 @@
 
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [Как сделать бота на Python для скачивания видео с Youtube: простой и быстрый способ!](https://www.youtube.com/watch?v=AaMMxCBu5Ms)
 - [История создания Всемирной паутины! Как один человек изменил Интернет навсегда?! WWW](https://www.youtube.com/watch?v=gZOeaMJkHLM)
 - [Как один человек изменил Интернет навсегда: История создания World Wide Web! Тим Бернерс-Ли](https://www.youtube.com/watch?v=Xc2fQvEWGVU)
 - [ИСТОРИЯ СОЗДАНИЯ Python за НЕСКОЛЬКО МИНУТ! Гвидо ван Россум](https://www.youtube.com/watch?v=e6iYD1XyZsc)
 - [Философия денег: как изменить свое отношение к финансам? Что такое деньги? Краткое содержание.](https://www.youtube.com/watch?v=mu88oE1AsWE)
-- [8 бизнес идей заработка на ChatGPT в 2023 году! Искусственный интеллект](https://www.youtube.com/watch?v=znnBPPqU3wE)
 <!-- YOUTUBE:END -->
 
 <br />
