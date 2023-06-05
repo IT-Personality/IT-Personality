@@ -28,10 +28,10 @@
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
 - [Cчетчик подписчиков для Telegram канала на базе микроконтроллера ESP8266! // Arduino](https://www.youtube.com/watch?v=ozgdr9V4fUc)
-- [Делаем бота на Python для скачивания видео с Youtube. Библиотека Pytube](https://www.youtube.com/watch?v=AaMMxCBu5Ms)
 - [История создания Всемирной паутины! Как один человек изменил Интернет навсегда?! WWW](https://www.youtube.com/watch?v=gZOeaMJkHLM)
 - [Как один человек изменил Интернет навсегда: История создания World Wide Web! Тим Бернерс-Ли](https://www.youtube.com/watch?v=Xc2fQvEWGVU)
 - [ИСТОРИЯ СОЗДАНИЯ Python за НЕСКОЛЬКО МИНУТ! Гвидо ван Россум](https://www.youtube.com/watch?v=e6iYD1XyZsc)
+- [Философия денег: как изменить свое отношение к финансам? Что такое деньги? Краткое содержание.](https://www.youtube.com/watch?v=mu88oE1AsWE)
 <!-- YOUTUBE:END -->
 
 <br />
