@@ -36,8 +36,8 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F1reWs&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=false&langs_count=100&layout=compact)](https://github.com/IT-Personality)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=F1reWs&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=true)](https://github.com/IT-Personality)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=false&langs_count=100&layout=compact)](https://github.com/IT-Personality)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Personality&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=true)](https://github.com/IT-Personality)
 
 ## 💥My top projects: <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io)](https://github.com/IT-Personality/it-personality.github.io)
