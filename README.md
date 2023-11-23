@@ -27,11 +27,11 @@
 
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [Сокращение ссылок на Python за несколько секунд. #топсоветы #python #ссылки](https://www.youtube.com/watch?v=JuD-d8OsyC0)
 - [Змейка на Python за 1 минуту! #топсоветы #python](https://www.youtube.com/watch?v=9cVDuudlW_M)
 - [Как сделать сайт НЕ УБИВАЕМЫМ - ТОП 5 советов по обеспечению безопасности!](https://www.youtube.com/watch?v=J4_8qNyYFYI)
 - [Кого выберешь ТЫ?! #shorts #ityoutubers #it #программирование](https://www.youtube.com/watch?v=u3nA7c7idVc)
 - [Cчетчик подписчиков для Telegram канала на базе микроконтроллера ESP8266! // Arduino](https://www.youtube.com/watch?v=ozgdr9V4fUc)
-- [История создания Всемирной паутины! Как один человек изменил Интернет навсегда?! WWW](https://www.youtube.com/watch?v=gZOeaMJkHLM)
 <!-- YOUTUBE:END -->
 
 <br />
