@@ -27,11 +27,11 @@
 
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [ПОЧЕМУ СТОИТ ПЕРЕЙТИ НА LINUX?  | 8 ПРИЧИН почему Линукс лучше Виндовс](https://www.youtube.com/watch?v=2NZSxvyaBMo)
 - [Сокращение ссылок на Python за несколько секунд. | Cократитель ссылок #топсоветы #python #ссылки](https://www.youtube.com/watch?v=JuD-d8OsyC0)
 - [Змейка на Python за 1 минуту! #топсоветы #python](https://www.youtube.com/watch?v=9cVDuudlW_M)
 - [Как сделать сайт НЕ УБИВАЕМЫМ - ТОП 5 советов по обеспечению безопасности!](https://www.youtube.com/watch?v=J4_8qNyYFYI)
 - [Кого выберешь ТЫ?! #shorts #ityoutubers #it #программирование](https://www.youtube.com/watch?v=u3nA7c7idVc)
-- [Cчетчик подписчиков для Telegram канала на базе микроконтроллера ESP8266! // Arduino](https://www.youtube.com/watch?v=ozgdr9V4fUc)
 <!-- YOUTUBE:END -->
 
 <br />
