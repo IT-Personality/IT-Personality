@@ -27,11 +27,11 @@
 
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [ЛУЧШИЕ бесплатные нейросети за 2024 год! ТОП-10](https://www.youtube.com/watch?v=6zHtNidZwIk)
 - [Почему Linux ЛУЧШЕ Windows short #shorts](https://www.youtube.com/watch?v=WYUP2rzqlwQ)
 - [ПОЧЕМУ СТОИТ ПЕРЕЙТИ НА LINUX?  | 8 ПРИЧИН почему Линукс лучше Виндовс](https://www.youtube.com/watch?v=2NZSxvyaBMo)
 - [Сокращение ссылок на Python за несколько секунд. | Cократитель ссылок #топсоветы #python #ссылки](https://www.youtube.com/watch?v=JuD-d8OsyC0)
 - [Змейка на Python за 1 минуту! #топсоветы #python](https://www.youtube.com/watch?v=9cVDuudlW_M)
-- [Как сделать сайт НЕ УБИВАЕМЫМ - ТОП 5 советов по обеспечению безопасности!](https://www.youtube.com/watch?v=J4_8qNyYFYI)
 <!-- YOUTUBE:END -->
 
 <br />
