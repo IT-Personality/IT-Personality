@@ -40,10 +40,10 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Personality&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=true)](https://github.com/IT-Personality)
 
 ## 💥My top projects: <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io)](https://github.com/IT-Personality/it-personality.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=assistantVK)](https://github.com/IT-Personality/assistantVK)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=currency-converter.github.io)](https://github.com/IT-Personality/currency-converter.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=qr-code-generator.github.io)](https://github.com/IT-Personality/qr-code-generator.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io)](https://github.com/IT-Personality/it-personality.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=online-stopwatch.github.io)](https://github.com/IT-Personality/online-stopwatch.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=Your_browser)](https://github.com/IT-Personality/Your_browser)
 
