@@ -27,11 +27,11 @@
 
 ## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
+- [КАК НЕ ВЫГОРАТЬ? ГАЙД НА ВЫГОРАНИЕ short #shorts #выгорание #эмоциональноевыгорание #психология](https://www.youtube.com/watch?v=D_OyUHnX-Uk)
 - [ГАЙД НА ВЫГОРАНИЕ. Выгорание в программировании // Побочный эффект IT](https://www.youtube.com/watch?v=zSs_jbp96vA)
 - [ЛУЧШИЕ бесплатные нейросети за 2024 год! ТОП-10](https://www.youtube.com/watch?v=6zHtNidZwIk)
 - [Почему Linux ЛУЧШЕ Windows short #shorts](https://www.youtube.com/watch?v=WYUP2rzqlwQ)
 - [ПОЧЕМУ СТОИТ ПЕРЕЙТИ НА LINUX?  | 8 ПРИЧИН почему Линукс лучше Виндовс](https://www.youtube.com/watch?v=2NZSxvyaBMo)
-- [Сокращение ссылок на Python за несколько секунд. | Cократитель ссылок #топсоветы #python #ссылки](https://www.youtube.com/watch?v=JuD-d8OsyC0)
 <!-- YOUTUBE:END -->
 
 <br />
