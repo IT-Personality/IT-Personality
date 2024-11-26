@@ -25,7 +25,8 @@
 
 
 <br />
-⚡️Latest videos on YouTube:
+
+## ⚡️Latest videos on YouTube:
 <!-- YOUTUBE:START -->
 - [Пишем СВОЙ СЕРВИС по скачиванию видео с ВК на Node JS](https://www.youtube.com/watch?v=aVSKnikNXp4)
 - [КАК НЕ ВЫГОРАТЬ? ГАЙД НА ВЫГОРАНИЕ short #shorts #выгорание #эмоциональноевыгорание #психология](https://www.youtube.com/watch?v=D_OyUHnX-Uk)
@@ -34,7 +35,6 @@
 - [Почему Linux ЛУЧШЕ Windows short #shorts](https://www.youtube.com/watch?v=WYUP2rzqlwQ)
 <!-- YOUTUBE:END -->
 
-<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=false&langs_count=100&layout=compact)](https://github.com/IT-Personality)
