@@ -19,8 +19,8 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&theme=tokyonight&layout=donut)](https://github.com/IT-Personality)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Personality&count_private=true&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&hide_title=true)](https://github.com/IT-Personality)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&theme=dracula&hide_border=true&layout=donut)](https://github.com/IT-Personality)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Personality&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)](https://github.com/IT-Personality)
 
 ## 💥My top projects: <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=assistantVK)](https://github.com/IT-Personality/assistantVK)
