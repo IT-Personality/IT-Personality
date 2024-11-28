@@ -20,7 +20,7 @@
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IT-Personality&theme=dracula&hide_border=true&layout=donut)](https://github.com/IT-Personality)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Personality&theme=dracula&hide_border=true&layout=donut)](https://github.com/IT-Personality)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Personality&theme=dracula&hide_border=true&layout=donut&rank_icon=github)](https://github.com/IT-Personality)
 
 ## 💥My top projects: <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=assistantVK)](https://github.com/IT-Personality/assistantVK)
