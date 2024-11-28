@@ -23,13 +23,13 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=IT-Personality&theme=dracula&hide_border=true&layout=donut&rank_icon=github)](https://github.com/IT-Personality)
 
 ## 💥My top projects: <br />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=assistantVK&theme=dracula&hide_border=true&layout=donut)](https://github.com/IT-Personality/assistantVK)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=currency-converter.github.io&theme=dracula&hide_border=true&layout=donut)](https://github.com/IT-Personality/currency-converter.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=assistantVK&hide_border=true&layout=donut)](https://github.com/IT-Personality/assistantVK)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=currency-converter.github.io&hide_border=true&layout=donut)](https://github.com/IT-Personality/currency-converter.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io&theme=dark&hide_border=true&layout=donut)](https://github.com/IT-Personality/it-personality.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=online-stopwatch.github.io&theme=dark&hide_border=true&layout=donut)](https://github.com/IT-Personality/online-stopwatch.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io&hide_border=true&layout=donut)](https://github.com/IT-Personality/it-personality.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=online-stopwatch.github.io&hide_border=true&layout=donut)](https://github.com/IT-Personality/online-stopwatch.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=QrCode-Generator&theme=dark&hide_border=true&layout=donut)](https://github.com/IT-Personality/QrCode-Generator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=QrCode-Generator&hide_border=true&layout=donut)](https://github.com/IT-Personality/QrCode-Generator)
 
 <!-- <a href="https://github.com/IT-Personality/Your_browser">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=Your_browser&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
