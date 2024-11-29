@@ -1,4 +1,3 @@
-[![Header](https://github.com/IT-Personality/IT-Personality/blob/main/image_2024-11-29_08-38-12.png)](https://t.me/ITpersonality01)
 ## YouTuber, Web-Developer
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=IT-Personality&style=flat-square&color=0fffcf" alt=""/></div>
