@@ -1,3 +1,4 @@
+![alt text](https://github.com/IT-Personality/IT-Personality/blob/main/IT-Personality%20YouTube.png)
 ## YouTuber, Web-Developer
 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=IT-Personality&style=flat-square&color=0fffcf" alt=""/></div>
