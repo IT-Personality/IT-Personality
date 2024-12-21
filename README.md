@@ -26,8 +26,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=assistantVK&hide_border=true&layout=donut)](https://github.com/IT-Personality/assistantVK)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=currency-converter.github.io&hide_border=true&layout=donut)](https://github.com/IT-Personality/currency-converter.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io&hide_border=true&layout=donut)](https://github.com/IT-Personality/it-personality.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=Arduino-auto-watering-of-plants&hide_border=true&layout=donut)](https://github.com/IT-Personality/Arduino-auto-watering-of-plants)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=it-personality.github.io&hide_border=true&layout=donut)](https://github.com/IT-Personality/it-personality.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=QrCode-Generator&hide_border=true&layout=donut)](https://github.com/IT-Personality/QrCode-Generator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IT-Personality&repo=online-stopwatch.github.io&hide_border=true&layout=donut)](https://github.com/IT-Personality/online-stopwatch.github.io)
